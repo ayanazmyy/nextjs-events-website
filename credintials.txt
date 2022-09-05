@@ -1,0 +1,2 @@
+password: HztHGADknmkahDMB
+connect nodejs: mongodb+srv://ayanazmy:HztHGADknmkahDMB@next-events.kjsuynp.mongodb.net/?retryWrites=true&w=majority
